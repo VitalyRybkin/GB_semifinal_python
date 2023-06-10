@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "header": "eat",
+        "body": "peaches",
+        "updated": "2023-06-09T16:18:43"
+    },
+    {
+        "id": 2,
+        "header": "wash",
+        "body": "melons",
+        "updated": "2023-06-09T22:39:04"
+    },
+    {
+        "id": 3,
+        "header": "drink with friends",
+        "body": "just beer",
+        "updated": "2023-06-09T22:40:02"
+    }
+]
